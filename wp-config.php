@@ -59,10 +59,10 @@ foreach ($_SERVER as $key => $value) {
 define('DB_NAME', 'open_unicef_org');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'azure');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'l9ce130');
+define('DB_PASSWORD', '6#vWHD_$');
 
 /** MySQL hostname */
 /** define('DB_HOST', 'localhost:50138'); */
