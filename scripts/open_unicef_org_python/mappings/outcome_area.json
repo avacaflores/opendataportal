@@ -1,0 +1,55 @@
+{
+   "@name": "OutcomeArea",
+   "@lang": "en",
+   "@category-codelist": "ProgrammeArea",
+   "@complete": "1",
+   "metadata": {
+      "name": "OutcomeArea",
+      "url": ""
+   },
+   "codelist-items": [
+      {
+         "code": "01",
+         "name": "Health",
+         "description": "Health",
+         "category": "01-07"
+      },
+      {
+         "code": "02",
+         "name": "HIV & AIDS",
+         "description": "HIV & AIDS",
+         "category": "01-06"
+      },
+      {
+         "code": "03",
+         "name": "WASH",
+         "description": "WASH",
+         "category": "01-05"
+      },
+      {
+         "code": "04",
+         "name": "Nutrition",
+         "description": "Nutrition",
+         "category": "01-04"
+      },
+      {
+         "code": "05",
+         "name": "Education",
+         "description": "Education",
+         "category": "01-03"
+      },
+      {
+         "code": "06",
+         "name": "Child Protection",
+         "description": "Child Protection",
+         "category": "01-02"
+      },
+      {
+         "code": "07",
+         "name": "Social Inclusion",
+         "description": "Social Inclusion",
+         "category": "01-01"
+      },
+   ]
+}
+

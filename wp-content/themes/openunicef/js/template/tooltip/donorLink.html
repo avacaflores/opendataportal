@@ -1,0 +1,9 @@
+<div class="donor link tooltip"
+    v-transition
+    v-style="left: left + 'px',
+             top: top + 'px',
+             width: width + 'px'">
+  <p>
+    {{ source.name }} donated {{ value | usd }} to {{ target.name | strip \([CE]\)$ }}.
+  </p>
+</div>

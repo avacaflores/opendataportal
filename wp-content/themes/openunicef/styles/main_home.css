@@ -1,0 +1,100 @@
+.measure-disc {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-bottom: 2px;
+  margin-right: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
+  .measure-disc.disbursement {
+    background-color: #FDBD29; }
+  .measure-disc.commitment {
+    background-color: #40B5C3; }
+  .measure-disc.expense {
+    background-color: #A1CC3A; }
+
+th.disbursement {
+  color: #FDBD29; }
+
+th.commitment {
+  color: #40B5C3; }
+
+th.expense {
+  color: #A1CC3A; }
+
+.dataTables_scrollBody {
+  margin-bottom: 10px;
+  overflow-x: hidden; }
+  .dataTables_scrollBody tr:last-child td {
+    border-bottom: solid #dddddd 1px; }
+
+.axis-home path {
+  display: none;
+}
+.axis-home line {
+  stroke: #888;
+}
+.axis-home.x text {
+  font: 9px sans-serif;
+  fill: #888;
+}
+
+.measure-b {
+  fill: #FDBD29; }
+
+.measure-c {
+  fill: #40B5C3; }
+
+.measure-e {
+  fill: #A1CC3A; }
+
+.info a {
+  color: #888;
+  cursor: pointer;
+  font-size: 0.9em;
+  margin-left: 0.2em; }
+
+.popover {
+  max-width: 33em !important; }
+  .popover p {
+    font-size: 9pt;
+    min-width: 28; }
+
+#outcome_details h4 {
+    font-family: "Roboto Slab",serif !important;
+}
+#outcome_details h4 {
+    font-size: 18px !important;
+}
+#outcome_details h4{
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+}
+#outcome_details h4 {
+    color: inherit !important;
+    font-family: inherit;
+    font-weight: 500 !important;
+    line-height: 1.1 !important;
+}
+
+.well {font-size: 14px !important;}
+
+#outcome_details .measure-0{fill: #a1cc3a !important}
+#outcome_details .measure-1{fill: #ACD747 !important}
+#outcome_details .measure-2{fill: #B7E057 !important}
+#outcome_details .measure-3{fill: #C2E868 !important}
+#outcome_details .measure-4{fill: #CCEF7B !important}
+#outcome_details .measure-5{fill: #D6F58E !important}
+#outcome_details .measure-6{fill: #E0FAA3 !important}
+#outcome_details .measure-7{fill: #E9FDBA !important}
+#outcome_details .measure-8{fill: #F1FFD1 !important}
+#outcome_details .measure-9{fill: #FAFFF0 !important}
+#outcome_details .measure-10{fill: #FAFFF0 !important}
+#outcome_details .measure-11{fill: #FAFFF0 !important}
+#outcome_details .measure-12{fill: #FAFFF0 !important}
+#outcome_details .measure-13{fill: #FAFFF0 !important}
+#outcome_details .measure-14{fill: #FAFFF0 !important}
+#outcome_details .measure-15{fill: #FAFFF0 !important}
+
+.disclaimer {width: 80%; font-family: inherit; line-height: 24px; margin: 0px auto 20px; font-size: 10pt;}

@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+  .pie-plc { width:150px; height:150px;  margin:0 auto;}
+    .category .legend { clear: left;  height: 125px; margin: 0 0 0 20px; width: 200px; margin-left:20px; margin-top:10px;}
+  .category .name {font-size:8pt;}
+  .position_summary h4 { font-size: 20pt; font-weight: bold; margin-top:-27px; float:left; margin-right:20px;}
+  .ml90 {margin-left: 90px;}
+      .legend .square-outcome {
+        background-color: red;
+        float: left;
+        height: 10px;
+        margin-right: 5px;
+        width: 10px;
+    }
+    .legend .row-outcome {
+        margin: 5px 0;
+    }
+    
+    .position_summary_cstm {
+  width: /*900px;*/1024px !important;
+  margin: 0 auto !important;
+  
+  }
+  .position_summary_cstm h2 {
+    font-size: 20pt !important;
+    font-weight: bold!important;
+    }
+    
+.position_summary_cstm .summary_and_line_charts .category {
+    border-top: 2px solid #1cabe2 !important;
+    float: left !important;
+    margin: 7px 20px 0 0 !important;
+    padding: 10px 10px 10px 0 !important;
+    /*width: 32% !important;*/
+    width: 48% !important;
+}    
+.extraFilterInfo{
+    background: #cecece none repeat scroll 0 0;     
+    border-radius: 5px;
+    color: #000000;
+    font-weight: normal;
+    margin: 6px 0;
+    padding: 0px 0 4px 4px;
+    font-size: 16px;
+}
+.extraFilterTxt{
+    display : inline;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.arrowpieDetailCls{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: left;
+     
+}
+.myClearCls{
+    clear : both;
+}

@@ -1,0 +1,277 @@
+{
+   "@name": "ProgrammeArea",
+   "@lang": "en",
+   "@category-codelist": "ProgrammeArea",
+   "@complete": "1",
+   "metadata": {
+      "name": "PA",
+      "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+   },
+   "codelist-items": [
+      {
+         "code": "PA01-07",
+         "name": "Health-General",
+         "description": "Health-General",
+         "category": "01-07"
+      },
+      {
+         "code": "PA01-06",
+         "name": "Health and emergencies",
+         "description": "Health and emergencies",
+         "category": "01-06"
+      },
+      {
+         "code": "PA01-05",
+         "name": "Health systems strengthening",
+         "description": "Health systems strengthening",
+         "category": "01-05"
+      },
+      {
+         "code": "PA01-04",
+         "name": "Child health",
+         "description": "Child health",
+         "category": "01-04"
+      },
+      {
+         "code": "PA01-03",
+         "name": "Maternal and Newborn health",
+         "description": "Maternal and Newborn health",
+         "category": "01-03"
+      },
+      {
+         "code": "PA01-02",
+         "name": "Polio eradication",
+         "description": "Polio eradication",
+         "category": "01-02"
+      },
+      {
+         "code": "PA01-01",
+         "name": "Immunization",
+         "description": "Immunization",
+         "category": "01-01"
+      },
+      {
+         "code": "PA02-05",
+         "name": "HIV-General",
+         "description": "HIV-General",
+         "category": "02-05"
+      },
+      {
+         "code": "PA02-04",
+         "name": "Protect, care and support children and families affected by",
+         "description": "Protect, care and support children and families affected by",
+         "category": "02-04"
+      },
+      {
+         "code": "PA02-03",
+         "name": "Adolescents and HIV/AIDS",
+         "description": "Adolescents and HIV/AIDS",
+         "category": "02-03"
+      },
+      {
+         "code": "PA02-02",
+         "name": "Care and Treatment of Children affected by HIV and AIDS",
+         "description": "Care and Treatment of Children affected by HIV and AIDS",
+         "category": "02-02"
+      },
+      {
+         "code": "PA02-01",
+         "name": "PMTCT and infant male circumcision",
+         "description": "PMTCT and infant male circumcision",
+         "category": "02-01"
+      },
+      {
+         "code": "PA03-06",
+         "name": "WASH-General",
+         "description": "WASH-General",
+         "category": "03-06"
+      },
+      {
+         "code": "PA03-05",
+         "name": "WASH and emergencies",
+         "description": "WASH and emergencies",
+         "category": "03-05"
+      },
+      {
+         "code": "PA03-04",
+         "name": "WASH in Schools and ECD centres",
+         "description": "WASH in Schools and ECD centres",
+         "category": "03-04"
+      },
+      {
+         "code": "PA03-03",
+         "name": "Hygiene",
+         "description": "Hygiene",
+         "category": "03-03"
+      },
+      {
+         "code": "PA03-02",
+         "name": "Sanitation",
+         "description": "Sanitation",
+         "category": "03-02"
+      },
+      {
+         "code": "PA03-01",
+         "name": "Water supply",
+         "description": "Water supply",
+         "category": "03-01"
+      },
+      {
+         "code": "PA04-06",
+         "name": "Nutrition-General",
+         "description": "Nutrition-General",
+         "category": "04-06"
+      },
+      {
+         "code": "PA04-05",
+         "name": "Nutrition and emergencies",
+         "description": "Nutrition and emergencies",
+         "category": "04-05"
+      },
+      {
+         "code": "PA04-04",
+         "name": "Community-based management of acute malnutrition",
+         "description": "Community-based management of acute malnutrition",
+         "category": "04-04"
+      },
+      {
+         "code": "PA04-03",
+         "name": "Nutrition and HIV",
+         "description": "Nutrition and HIV",
+         "category": "04-03"
+      },
+      {
+         "code": "PA04-02",
+         "name": "Micronutrients",
+         "description": "Micronutrients",
+         "category": "04-02"
+      },
+      {
+         "code": "PA04-01",
+         "name": "Infant and Young child feeding",
+         "description": "Infant and Young child feeding",
+         "category": "04-01"
+      },
+      {
+         "code": "PA05-05",
+         "name": "Education-General",
+         "description": "Education-General",
+         "category": "05-05"
+      },
+      {
+         "code": "PA05-04",
+         "name": "Education in emergencies",
+         "description": "Education in emergencies",
+         "category": "05-04"
+      },
+      {
+         "code": "PA05-03",
+         "name": "Learning and child-friendly schools",
+         "description": "Learning and child-friendly schools",
+         "category": "05-03"
+      },
+      {
+         "code": "PA05-02",
+         "name": "Equity-focus on girls' and inclusive education",
+         "description": "Equity-focus on girls' and inclusive education",
+         "category": "05-02"
+      },
+      {
+         "code": "PA05-01",
+         "name": "Early learning",
+         "description": "Early learning",
+         "category": "05-01"
+      },
+      {
+         "code": "PA06-08",
+         "name": "Child Protection-General",
+         "description": "Child Protection-General",
+         "category": "06-08"
+      },
+      {
+         "code": "PA06-07",
+         "name": "Child Protection-strengthen families and communities",
+         "description": "Child Protection-strengthen families and communities",
+         "category": "06-07"
+      },
+      {
+         "code": "PA06-06",
+         "name": "Child Protection and emergencies",
+         "description": "Child Protection and emergencies",
+         "category": "06-06"
+      },
+      {
+         "code": "PA06-05",
+         "name": "Birth registration",
+         "description": "Birth registration",
+         "category": "06-05"
+      },
+      {
+         "code": "PA06-04",
+         "name": "Justice for children",
+         "description": "Justice for children",
+         "category": "06-04"
+      },
+      {
+         "code": "PA06-03",
+         "name": "Violence, exploitation and abuse",
+         "description": "Violence, exploitation and abuse",
+         "category": "06-03"
+      },
+      {
+         "code": "PA06-02",
+         "name": "Child Protection systems",
+         "description": "Child Protection systems",
+         "category": "06-02"
+      },
+      {
+         "code": "PA06-01",
+         "name": "Data and Child Protection",
+         "description": "Data and Child Protection",
+         "category": "06-01"
+      },
+      {
+         "code": "PA07-06",
+         "name": "Economic and social policy general",
+         "description": "Economic and social policy general",
+         "category": "07-06"
+      },
+      {
+         "code": "PA07-05",
+         "name": "Human rights institutions",
+         "description": "Human rights institutions",
+         "category": "07-05"
+      },
+      {
+         "code": "PA07-04",
+         "name": "Policy advocacy-urban, civil society, parliament, environm",
+         "description": "Policy advocacy-urban, civil society, parliament, environm",
+         "category": "07-04"
+      },
+      {
+         "code": "PA07-03",
+         "name": "Public finance and local governance",
+         "description": "Public finance and local governance",
+         "category": "07-03"
+      },
+      {
+         "code": "PA07-02",
+         "name": "Social protection and child poverty",
+         "description": "Social protection and child poverty",
+         "category": "07-02"
+      },
+      {
+         "code": "PA07-01",
+         "name": "Social exclusion-data and evidence",
+         "description": "Social exclusion-data and evidence",
+         "category": "07-01"
+      },
+      {
+         "code": "PA00-00",
+         "name": "NA-Programme Area",
+         "description": "NA-Programme Area",
+         "category": "07-01"
+      }      
+   ]
+}
+

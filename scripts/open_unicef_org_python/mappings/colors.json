@@ -1,0 +1,88 @@
+{
+    "donors": [
+      {
+        "name":"Governments",
+        "color":"rgb(8,29,88)"
+      },
+      {
+        "name":"United Nations System",
+        "color":"rgb(37,52,148)"
+      },
+      {
+        "name":"Inter-Governmental Agencies",
+        "color":"rgb(34,94,168)"
+      },
+      {
+        "name":"UNICEF Thematic Funds",
+        "color":"rgb(29,145,192)"
+      },
+      {
+        "name":"National Committees",
+        "color":"rgb(65,182,196)"
+      },
+      {
+        "name":"Non-Governmental Organisation",
+        "color":"rgb(127,205,187)"
+      },
+      {
+        "name":"Field Offices",
+        "color":"rgb(199,233,180)"
+      },
+      {
+        "name":"Joint Ventures - Worldwide",
+        "color":"rgb(237,248,177)"
+      },
+      {
+        "name":"Individuals (Others)",
+        "color":"rgb(199,234,229)"
+      },
+      {
+        "name":"IFAD - Italy",
+        "color":"rgb(188,245,222)"
+      },
+      {
+        "name":"amounts under limit",
+        "color":"rgb(211,245,222)"
+      }
+    ],
+    "regions": [
+      {
+        "name":"West and Central Africa",
+        "color":"rgb(128,0,38)"
+      },
+      {
+        "name":"Eastern and Southern Africa",
+        "color":"rgb(189,0,38)"
+      },
+      {
+        "name":"Middle East and North Africa",
+        "color":"rgb(227,26,28)"
+      },
+      {
+        "name":"South Asia",
+        "color":"rgb(252,78,42)"
+      },
+      {
+        "name":"East Asia and the Pacific",
+        "color":"rgb(253,141,60)"
+      },
+      {
+        "name":"Latin America and the Caribbean",
+        "color":"rgb(254,178,76)"
+      },
+      {
+        "name":"Central and Eastern Europe and the Commonwealth of the Independent States",
+        "color":"rgb(254,217,118)"
+      },
+      {
+        "name":"Europe and Central Asia",
+        "color":"rgb(254,217,118)"
+      }
+    ],
+    "sectors": [
+        {
+         "name":"sector",
+         "color":"rgb(161, 204, 58)"
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+DONOR_CODE,DONOR_TYPE_NAME,DONOR_NAME,IATI_ORGANISATION_TYPE_CODE,ORGROLE,DONOR_TYPE
+N07235,Non-Governmental Organisation,International Development Research,"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""80 'Academic, Training and Research'""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Funding,80
+O49910,Individuals (Others),University of Notre Dame,"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""80 'Academic, Training and Research'""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Funding,80
+G20429,Governments,State Health Society Bihar,10 'Government',Funding,10
+G28201,Governments,Mauritania,10 'Government',Funding,10
+G89701,Governments,Serbian Government,10 'Government',Funding,10
+G20426,Governments,National Health Mission (NHM),10 'Government',Funding,10
+G66701,Governments,New Caledonia,10 'Government',Funding,10
+G45901,Governments,Burkina Faso,10 'Government',Funding,10
+G45603,Governments,USA CDC,10 'Government',Funding,10
+G45605,Governments,USA (USAID) OFDA,10 'Government',Funding,10
+G45606,Governments,USA (State) BPRM,10 'Government',Funding,10
+G45609,Governments,USA (State) BPMA,10 'Government',Funding,10
+G45612,Governments,USA (INL)GTip,10 'Government',Funding,10
+G45614,Governments,USA Department of State NEA,10 'Government',Funding,10
+G14701,Governments,France,10 'Government',Funding,10
+G15301,Governments,Gabon,10 'Government',Funding,10
+G16001,Governments,Georgia,10 'Government',Funding,10
+G16501,Governments,Greece,10 'Government',Funding,10
+G17701,Governments,Guinea - Conakry,10 'Government',Funding,10
+G18301,Governments,Haiti,10 'Government',Funding,10
+G19501,Governments,Hungary,10 'Government',Funding,10
+G19801,Governments,Iceland,10 'Government',Funding,10
+G20404,Governments,India - MOHFW,10 'Government',Funding,10
+G21601,Governments,Ireland,10 'Government',Funding,10
+G22201,Governments,Italy,10 'Government',Funding,10
+G22205,Governments,Government of Tuscan Region,10 'Government',Funding,10
+G22501,Governments,Cote d'Ivoire,10 'Government',Funding,10
+G23101,Governments,Japan,10 'Government',Funding,10
+G23102,Governments,Japan International Cooperation Age,10 'Government',Funding,10
+G24001,Governments,Kenya,10 'Government',Funding,10
+G24301,Governments,Kuwait,10 'Government',Funding,10
+G24501,Governments,Kyrgyz Republic,10 'Government',Funding,10
+G25501,Governments,Liberia,10 'Government',Funding,10
+G25801,Governments,Libyan Arab Jamahiriya,10 'Government',Funding,10
+G26401,Governments,Luxembourg,10 'Government',Funding,10
+G26701,Governments,Madagascar,10 'Government',Funding,10
+G27001,Governments,Malaysia,10 'Government',Funding,10
+G27601,Governments,Mali,10 'Government',Funding,10
+G27901,Governments,Malta,10 'Government',Funding,10
+G28501,Governments,Mexico,10 'Government',Funding,10
+G28801,Governments,Mongolia,10 'Government',Funding,10
+G29101,Governments,Morocco,10 'Government',Funding,10
+G29701,Governments,Nepal,10 'Government',Funding,10
+G30001,Governments,Netherlands,10 'Government',Funding,10
+G30901,Governments,New Zealand,10 'Government',Funding,10
+G32101,Governments,Nigeria,10 'Government',Funding,10
+G32401,Governments,Norway,10 'Government',Funding,10
+G33001,Governments,Pakistan,10 'Government',Funding,10
+G33301,Governments,Panama,10 'Government',Funding,10
+G33801,Governments,Congo,10 'Government',Funding,10
+G34501,Governments,Poland,10 'Government',Funding,10
+G34801,Governments,Portugal,10 'Government',Funding,10
+G36601,Governments,Romania,10 'Government',Funding,10
+G37001,Governments,Russian Federation,10 'Government',Funding,10
+G37801,Governments,Saudi Arabia,10 'Government',Funding,10
+G38101,Governments,Senegal,10 'Government',Funding,10
+G39001,Governments,Sierra Leone,10 'Government',Funding,10
+G39301,Governments,South Africa,10 'Government',Funding,10
+G39401,Governments,Slovenia,10 'Government',Funding,10
+G39501,Governments,Slovak Republic,10 'Government',Funding,10
+G39901,Governments,Spain,10 'Government',Funding,10
+G39904,Governments,Andalucia,10 'Government',Funding,10
+G41101,Governments,Sweden,10 'Government',Funding,10
+G41102,Governments,SIDA - Sweden,10 'Government',Funding,10
+G41505,Governments,Tajikistan,10 'Government',Funding,10
+G42301,Governments,Togo,10 'Government',Funding,10
+G43501,Governments,Turkey,10 'Government',Funding,10
+G44901,Governments,United Arab Emirates,10 'Government',Funding,10
+G45001,Governments,Egypt,10 'Government',Funding,10
+G23901,Governments,Kazakhstan,10 'Government',Funding,10
+G45301,Governments,The United Kingdom,10 'Government',Funding,10
+G45601,Governments,United States of America,10 'Government',Funding,10
+G45602,Governments,USA USAID,10 'Government',Funding,10
+G09301,Governments,Colombia,10 'Government',Funding,10
+G20408,Governments,Government of Bihar,10 'Government',Funding,10
+G68101,Governments,Angola,10 'Government',Funding,10
+G05202,Governments,Government of Botswana,10 'Government',Funding,10
+G08601,Governments,China,10 'Government',Funding,10
+G45615,Governments,USA INL,10 'Government',Funding,10
+G45617,Governments,USAID/Food for Peace,10 'Government',Funding,10
+G45620,Governments,USAID,10 'Government',Funding,10
+G50501,Governments,Andorra,10 'Government',Funding,10
+G52501,Governments,Germany,10 'Government',Funding,10
+G52507,Governments,Cote D'Ivoire,10 'Government',Funding,10
+G55501,Governments,Liechtenstein,10 'Government',Funding,10
+G56501,Governments,Monaco,10 'Government',Funding,10
+G56701,Governments,Republic of Korea,10 'Government',Funding,10
+G57501,Governments,Switzerland,10 'Government',Funding,10
+G61101,Governments,Belize,10 'Government',Funding,10
+G62401,Governments,Qatar,10 'Government',Funding,10
+G63501,Governments,Oman,10 'Government',Funding,10
+G64901,Governments,Papua New Guinea,10 'Government',Funding,10
+G66201,Governments,Comoros,10 'Government',Funding,10
+G68501,Governments,Guinea-Bissau,10 'Government',Funding,10
+G70604,Governments,Ministry of Health,10 'Government',Funding,10
+G08101,Governments,Chad,10 'Government',Funding,10
+G03101,Governments,Azerbaijan,10 'Government',Funding,10
+G06901,Governments,Cameroon,10 'Government',Funding,10
+G10301,Governments,Croatia,10 'Government',Funding,10
+G13901,Governments,Equatorial Guinea,10 'Government',Funding,10
+G15601,Governments,Gambia,10 'Government',Funding,10
+G17710,Governments,SE/CNLS - Guinea,10 'Government',Funding,10
+G26001,Governments,Lithuania,10 'Government',Funding,10
+G26901,Governments,Government of Malawi,10 'Government',Funding,10
+G31801,Governments,Niger,10 'Government',Funding,10
+G39101,Governments,Singapore,10 'Government',Funding,10
+G43801,Governments,Uganda,10 'Government',Funding,10
+G45604,Governments,USA DOL,10 'Government',Funding,10
+G45699,Governments,UNITED STATES OF AMERICA,10 'Government',Funding,10
+G24701,Governments,Government of Latvia,10 'Government',Funding,10
+G42001,Governments,Thailand,10 'Government',Funding,10
+G45618,Governments,EAP/US Dept Bureau of EAP,10 'Government',Funding,10
+G06101,Governments,Burundi,10 'Government',Funding,10
+G06601,Governments,Cambodia,10 'Government',Funding,10
+G32402,Governments,Norway - NORAD,10 'Government',Funding,10
+G33601,Governments,Paraguay,10 'Government',Funding,10
+G45619,Governments,US SOGWI,10 'Government',Funding,10
+G49201,Governments,Yemen,10 'Government',Funding,10
+G00601,Governments,Government of Afghanistan,10 'Government',Funding,10
+G02701,Governments,Australia,10 'Government',Funding,10
+G03001,Governments,Austria,10 'Government',Funding,10
+G04801,Governments,Belgium,10 'Government',Funding,10
+G04804,Governments,Flanders Internat'l Cooperation Ag,10 'Government',Funding,10
+G05101,Governments,Bolivia,10 'Government',Funding,10
+G05401,Governments,Brazil,10 'Government',Funding,10
+G05701,Governments,Bulgaria,10 'Government',Funding,10
+G06603,Governments,Ministry of Health,10 'Government',Funding,10
+G06606,Governments,National Center for HIV/AIDS,10 'Government',Funding,10
+G07201,Governments,Canada,10 'Government',Funding,10
+G07202,Governments,Canada/IHA,10 'Government',Funding,10
+G07203,Governments,Canada/GID,10 'Government',Funding,10
+G07501,Governments,Central African Republic,10 'Government',Funding,10
+G07502,Governments,Ministry of Health - CAR,10 'Government',Funding,10
+G08401,Governments,Chile,10 'Government',Funding,10
+G09901,Governments,Democratic Republic of the Congo,10 'Government',Funding,10
+G09904,Governments,Ministry of Health - DR Congo,10 'Government',Funding,10
+G11101,Governments,Cyprus,10 'Government',Funding,10
+G11301,Governments,Czech Republic (The),10 'Government',Funding,10
+G12001,Governments,Denmark,10 'Government',Funding,10
+G14001,Governments,Estonia,10 'Government',Funding,10
+G14101,Governments,Ethiopia,10 'Government',Funding,10
+G14401,Governments,Finland,10 'Government',Funding,10
+N45691,Non-Governmental Organisation,PACT,21 'International NGO',Funding,21
+N45684,Non-Governmental Organisation,Malaria No More (MNM),21 'International NGO',Funding,21
+N12030,Non-Governmental Organisation,Danish Red Cross,21 'International NGO',Funding,21
+N07232,Non-Governmental Organisation,Nutrition International,21 'International NGO',Funding,21
+N45698,Non-Governmental Organisation,Partners in Health,21 'International NGO',Funding,21
+N44901,Non-Governmental Organisation,Red Crescent Society UAE,21 'International NGO',Funding,21
+N39201,Non-Governmental Organisation,World Vision - Somalia,21 'International NGO',Funding,21
+N08102,Non-Governmental Organisation,FOSAP,22 'National NGO',Funding,22
+N22547,Non-Governmental Organisation,Alliance Cote d'Ivoire,22 'National NGO',Funding,22
+N26715,Non-Governmental Organisation,AIM - Association Intercooperation,22 'National NGO',Funding,22
+F06301,Field Offices,UNICEF-Belarus,30 'Public Private Partnership',Funding,30
+F43201,Field Offices,UNICEF-Tunisia/Starwood,30 'Public Private Partnership',Funding,30
+F44101,Field Offices,UNICEF-Ukraine,30 'Public Private Partnership',Funding,30
+F44901,Field Offices,UNICEF-United Arab Emirates,30 'Public Private Partnership',Funding,30
+F45001,Field Offices,UNICEF-Egypt,30 'Public Private Partnership',Funding,30
+F45501,Field Offices,UNICEF-United Republic of Tanzania,30 'Public Private Partnership',Funding,30
+F46201,Field Offices,UNICEF-Uruguay,30 'Public Private Partnership',Funding,30
+F47101,Field Offices,UNICEF-Venezuela,30 'Public Private Partnership',Funding,30
+F49501,Field Offices,UNICEF-Serbia,30 'Public Private Partnership',Funding,30
+F49503,Field Offices,UNICEF - KOSOVO,30 'Public Private Partnership',Funding,30
+F49801,Field Offices,UNICEF-Zambia,30 'Public Private Partnership',Funding,30
+F49901,Field Offices,PSFR - consolidated pool funding,30 'Public Private Partnership',Funding,30
+F52001,Field Offices,UNICEF-Viet Nam,30 'Public Private Partnership',Funding,30
+F56401,Field Offices,UNICEF-Moldova,30 'Public Private Partnership',Funding,30
+F57502,Field Offices,International On-line Donations,30 'Public Private Partnership',Funding,30
+F62401,Field Offices,UNICEF-QATAR,30 'Public Private Partnership',Funding,30
+F62601,Field Offices,UNICEF-Zimbabwe,30 'Public Private Partnership',Funding,30
+F63501,Field Offices,UNICEF-Oman,30 'Public Private Partnership',Funding,30
+F66901,Field Offices,UNICEF-Djibouti,30 'Public Private Partnership',Funding,30
+F68101,Field Offices,UNICEF-Angola,30 'Public Private Partnership',Funding,30
+F68301,Field Offices,UNICEF-SAO TOME & PRINCIPE,30 'Public Private Partnership',Funding,30
+F70501,Field Offices,UNICEF-WEST BANK & GAZA,30 'Public Private Partnership',Funding,30
+C52501,National Committees,German Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C56701,National Committees,Korean Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C57001,National Committees,National Committee of San Marino,30 'Public Private Partnership',Funding,30
+C57501,National Committees,Swiss Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C61201,National Committees,Hong Kong Committee for UNICEF,30 'Public Private Partnership',Funding,30
+F02401,Field Offices,UNICEF-Argentina,30 'Public Private Partnership',Funding,30
+F02601,Field Offices,UNICEF-Armenia,30 'Public Private Partnership',Funding,30
+F03101,Field Offices,UNICEF-Azerbaijan,30 'Public Private Partnership',Funding,30
+F04201,Field Offices,UNICEF-Barbados,30 'Public Private Partnership',Funding,30
+F05101,Field Offices,UNICEF-Bolivia,30 'Public Private Partnership',Funding,30
+F05301,Field Offices,UNICEF-Bosnia & Herzegovina,30 'Public Private Partnership',Funding,30
+F05401,Field Offices,UNICEF-Brazil,30 'Public Private Partnership',Funding,30
+F05701,Field Offices,UNICEF Bulgaria,30 'Public Private Partnership',Funding,30
+F06901,Field Offices,UNICEF-Cameroon,30 'Public Private Partnership',Funding,30
+F07801,Field Offices,UNICEF-Sri Lanka,30 'Public Private Partnership',Funding,30
+F08401,Field Offices,UNICEF-Chile,30 'Public Private Partnership',Funding,30
+F08601,Field Offices,UNICEF-China,30 'Public Private Partnership',Funding,30
+F09301,Field Offices,UNICEF-Colombia,30 'Public Private Partnership',Funding,30
+F10201,Field Offices,UNICEF-Costa Rica,30 'Public Private Partnership',Funding,30
+F10301,Field Offices,UNICEF-Croatia,30 'Public Private Partnership',Funding,30
+F11701,Field Offices,UNICEF-Benin,30 'Public Private Partnership',Funding,30
+F12601,Field Offices,UNICEF-Dominican Republic,30 'Public Private Partnership',Funding,30
+F13501,Field Offices,UNICEF-Ecuador,30 'Public Private Partnership',Funding,30
+F13901,Field Offices,UNICEF-Equatorial Guinea,30 'Public Private Partnership',Funding,30
+F14101,Field Offices,UNICEF-Ethiopia,30 'Public Private Partnership',Funding,30
+F15301,Field Offices,UNICEF-Gabon,30 'Public Private Partnership',Funding,30
+F16201,Field Offices,UNICEF-Ghana,30 'Public Private Partnership',Funding,30
+F16801,Field Offices,UNICEF-Guatemala,30 'Public Private Partnership',Funding,30
+F17701,Field Offices,UNICEF-Guinea,30 'Public Private Partnership',Funding,30
+F18001,Field Offices,UNICEF-Guyana,30 'Public Private Partnership',Funding,30
+F20401,Field Offices,UNICEF-India,30 'Public Private Partnership',Funding,30
+F20701,Field Offices,UNICEF-Indonesia,30 'Public Private Partnership',Funding,30
+F21001,Field Offices,UNICEF-Iran,30 'Public Private Partnership',Funding,30
+F22501,Field Offices,UNICEF-Cote D'Ivoire,30 'Public Private Partnership',Funding,30
+F22801,Field Offices,UNICEF-Jamaica,30 'Public Private Partnership',Funding,30
+F23401,Field Offices,UNICEF-Jordan,30 'Public Private Partnership',Funding,30
+F23901,Field Offices,UNICEF - KAZAKHSTAN,30 'Public Private Partnership',Funding,30
+F24001,Field Offices,UNICEF Kenya,30 'Public Private Partnership',Funding,30
+F24901,Field Offices,UNICEF-Lebanon,30 'Public Private Partnership',Funding,30
+F26601,Field Offices,UNICEF-Macedonia,30 'Public Private Partnership',Funding,30
+F26701,Field Offices,UNICEF-Madagascar,30 'Public Private Partnership',Funding,30
+F26901,Field Offices,UNICEF-Malawi,30 'Public Private Partnership',Funding,30
+F27001,Field Offices,UNICEF-Malaysia,30 'Public Private Partnership',Funding,30
+F28301,Field Offices,UNICEF-Mauritius,30 'Public Private Partnership',Funding,30
+F21301,Field Offices,UNICEF-Iraq,30 'Public Private Partnership',Funding,30
+F27601,Field Offices,UNICEF-Mali,30 'Public Private Partnership',Funding,30
+F40201,Field Offices,UNICEF Sudan - Khartoum,30 'Public Private Partnership',Funding,30
+F43801,Field Offices,UNICEF-Uganda,30 'Public Private Partnership',Funding,30
+F40401,Field Offices,UNICEF South Sudan,30 'Public Private Partnership',Funding,30
+F28501,Field Offices,UNICEF-Mexico,30 'Public Private Partnership',Funding,30
+F29101,Field Offices,UNICEF-Morocco,30 'Public Private Partnership',Funding,30
+F31201,Field Offices,UNICEF-Nicaragua,30 'Public Private Partnership',Funding,30
+F32101,Field Offices,UNICEF-Nigeria,30 'Public Private Partnership',Funding,30
+F33001,Field Offices,UNICEF-Pakistan,30 'Public Private Partnership',Funding,30
+F33351,Field Offices,UNICEF - PANAMA,30 'Public Private Partnership',Funding,30
+F33601,Field Offices,UNICEF-Paraguay,30 'Public Private Partnership',Funding,30
+F33901,Field Offices,UNICEF-Peru,30 'Public Private Partnership',Funding,30
+F34201,Field Offices,UNICEF-Philippines,30 'Public Private Partnership',Funding,30
+F36601,Field Offices,UNICEF-Romania,30 'Public Private Partnership',Funding,30
+F37001,Field Offices,UNICEF-Russian Federation,30 'Public Private Partnership',Funding,30
+F37801,Field Offices,UNICEF-Saudi Arabia,30 'Public Private Partnership',Funding,30
+F39301,Field Offices,UNICEF-South Africa,30 'Public Private Partnership',Funding,30
+F42001,Field Offices,UNICEF-THAILAND,30 'Public Private Partnership',Funding,30
+F07501,Field Offices,UNICEF-Central African Republic,30 'Public Private Partnership',Funding,30
+F68901,Field Offices,UNICEF-Mozambique,30 'Public Private Partnership',Funding,30
+F29701,Field Offices,UNICEF-Nepal,30 'Public Private Partnership',Funding,30
+F06001,Field Offices,UNICEF-Myanmar,30 'Public Private Partnership',Funding,30
+C02701,National Committees,Australian Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C03001,National Committees,Austrian Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C04801,National Committees,Belgian Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C07201,National Committees,Canadian UNICEF Committee,30 'Public Private Partnership',Funding,30
+C11301,National Committees,Czech Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C12001,National Committees,Danish Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C14401,National Committees,Finnish Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C14701,National Committees,French Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C16501,National Committees,Hellenic National Committee,30 'Public Private Partnership',Funding,30
+C19501,National Committees,Hungarian National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+C19502,National Committees,UNICEF Hungarian  Foundation,30 'Public Private Partnership',Funding,30
+C19801,National Committees,Iceland National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+C21601,National Committees,UNICEF Ireland,30 'Public Private Partnership',Funding,30
+C21901,National Committees,Israel Fund for UNICEF,30 'Public Private Partnership',Funding,30
+C21902,National Committees,Israeli Fund for UNICEF,30 'Public Private Partnership',Funding,30
+C22201,National Committees,Italian National Committee,30 'Public Private Partnership',Funding,30
+C23101,National Committees,Japan Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C26001,National Committees,Lithuanian National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+C26401,National Committees,Luxembourg Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C30001,National Committees,Netherlands Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C30901,National Committees,New Zealand Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C32401,National Committees,Norwegian Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C34502,National Committees,Polish National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+C34801,National Committees,Portuguese Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C39401,National Committees,UNICEF Slovenia,30 'Public Private Partnership',Funding,30
+C39402,National Committees,Slovenska Fundacja za UNICEF,30 'Public Private Partnership',Funding,30
+C39501,National Committees,Slovak Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C39901,National Committees,Spanish Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C41101,National Committees,Swedish Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C43501,National Committees,Turkish National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+C45301,National Committees,United Kingdom Committee for UNICEF,30 'Public Private Partnership',Funding,30
+C45601,National Committees,United States Fund for UNICEF,30 'Public Private Partnership',Funding,30
+C49902,National Committees,Consolidated Funds from NatComs,30 'Public Private Partnership',Funding,30
+C50501,National Committees,Andorran National Comm for UNICEF,30 'Public Private Partnership',Funding,30
+J49901,Joint Ventures - Worldwide,Global Alliance for Vaccines and,30 'Public Private Partnership',Funding,30
+J49903,Joint Ventures - Worldwide,Pooled Funding Mechanism,30 'Public Private Partnership',Funding,30
+J49904,Joint Ventures - Worldwide,Donor Pooled Fund (mixed donors),30 'Public Private Partnership',Funding,30
+N99901,Non-Governmental Organisation,UN Women's Guild,30 'Public Private Partnership',Funding,30
+F46301,Field Offices,UNICEF-Uzbekistan,30 'Public Private Partnership',Funding,30
+F60401,Field Offices,UNICEF-BAHRAIN,30 'Public Private Partnership',Funding,30
+F24301,Field Offices,UNICEF-Kuwait,30 'Public Private Partnership',Funding,30
+O49911,Individuals (Others),End Violence Fund,30 'Public Private Partnership',Funding,30
+O49913,Individuals (Others),Education Cannot Wait Fund,30 'Public Private Partnership',Funding,30
+F09901,Field Offices,UNICEF-DRC,30 'Public Private Partnership',Funding,30
+U99913,United Nations System,WHO,40 'Multilateral',Funding,40
+U99914,United Nations System,UNESCO,40 'Multilateral',Funding,40
+U99965,United Nations System,SRSG on Violence against Children,40 'Multilateral',Funding,40
+T49957,Thematic,Global - Gender Equality,40 'Multilateral',Funding,40
+U99915,United Nations System,UNRWA - Israel,40 'Multilateral',Funding,40
+U99917,United Nations System,UNHCR HQ,40 'Multilateral',Funding,40
+U99924,United Nations System,United Nations Environment Programm,40 'Multilateral',Funding,40
+U99926,United Nations System,UN Habitat,40 'Multilateral',Funding,40
+U99928,United Nations System,UNAIDS,40 'Multilateral',Funding,40
+U99930,United Nations System,WFP  - Italy,40 'Multilateral',Funding,40
+U99932,United Nations System,UN Office on Drugs & Crime (UNODC),40 'Multilateral',Funding,40
+U99953,United Nations System,OECD - France,40 'Multilateral',Funding,40
+U99976,United Nations System,United Nations Special Coordinator,40 'Multilateral',Funding,40
+U99934,United Nations System,World Bank - Washington D.C.,40 'Multilateral',Funding,40
+U99935,United Nations System,UNOPS - New York,40 'Multilateral',Funding,40
+U99937,United Nations System,IFAD - Italy,40 'Multilateral',Funding,40
+U99944,United Nations System,Int'l Organization for Migration,40 'Multilateral',Funding,40
+U99950,United Nations System,UNMAS - New York,40 'Multilateral',Funding,40
+U99954,United Nations System,UNDGO,40 'Multilateral',Funding,40
+U99955,United Nations System,UNTFHS,40 'Multilateral',Funding,40
+U99967,United Nations System,UNDP - MDTF,40 'Multilateral',Funding,40
+U99968,United Nations System,UNDP - JP,40 'Multilateral',Funding,40
+U99969,United Nations System,UNAMI - UN Asssitance Mission for I,40 'Multilateral',Funding,40
+U99972,United Nations System,UN Women,40 'Multilateral',Funding,40
+U99973,United Nations System,Global Partnership for Education,40 'Multilateral',Funding,40
+U99974,United Nations System,UN Department of Peacekeeping Opera,40 'Multilateral',Funding,40
+U99999,United Nations System,UNICEF (FOR GR ALLOCATIONS ONLY),40 'Multilateral',Funding,40
+Unknown,United Nations System,Unknown,40 'Multilateral',Funding,40
+U99983,United Nations System,UNMEER-Guinea,40 'Multilateral',Funding,40
+I49901,Inter-Governmental Agencies,African Development Bank,40 'Multilateral',Funding,40
+I49904,Inter-Governmental Agencies,Asian Development Bank,40 'Multilateral',Funding,40
+I49905,Inter-Governmental Agencies,European Commission/EC,40 'Multilateral',Funding,40
+I49906,Inter-Governmental Agencies,Inter-American Development Bank,40 'Multilateral',Funding,40
+I49909,Inter-Governmental Agencies,OPEC Fund,40 'Multilateral',Funding,40
+I49910,Inter-Governmental Agencies,Secretariat of Pacific Community,40 'Multilateral',Funding,40
+I49912,Inter-Governmental Agencies,European Commission / ECHO,40 'Multilateral',Funding,40
+I49920,Inter-Governmental Agencies,UNITAID,40 'Multilateral',Funding,40
+I49924,Inter-Governmental Agencies,African Union Commission,40 'Multilateral',Funding,40
+I49925,Inter-Governmental Agencies,West African Health Organization,40 'Multilateral',Funding,40
+T49901,UNICEF Thematic Funds,Global - Girls Education (Thematic,40 'Multilateral',Funding,40
+T49902,UNICEF Thematic Funds,Global - Immunisation Plus,40 'Multilateral',Funding,40
+T49904,UNICEF Thematic Funds,Global - Child Protection,40 'Multilateral',Funding,40
+T49905,UNICEF Thematic Funds,Global - Int. Early Childhood Devel,40 'Multilateral',Funding,40
+T49906,UNICEF Thematic Funds,Global - Thematic Humanitarian Resp,40 'Multilateral',Funding,40
+T49907,UNICEF Thematic Funds,BASIC EDUCATION AND GENDER EQUALITY,40 'Multilateral',Funding,40
+T49908,UNICEF Thematic Funds,YOUNG CHILD SURVIVAL & DEVELOPMENT,40 'Multilateral',Funding,40
+T49909,UNICEF Thematic Funds,HIV-AIDS AND CHILDREN,40 'Multilateral',Funding,40
+T49910,UNICEF Thematic Funds,CHILD PROTECTION: PREVENTING/ R,40 'Multilateral',Funding,40
+T49911,UNICEF Thematic Funds,POLICY ADVOCACY AND PARTNERSHIP,40 'Multilateral',Funding,40
+T49950,UNICEF Thematic Funds,Global - Health,40 'Multilateral',Funding,40
+T49951,UNICEF Thematic Funds,Global - HIV and AIDS,40 'Multilateral',Funding,40
+T49952,UNICEF Thematic Funds,Global - Water Sanitation & Hygiene,40 'Multilateral',Funding,40
+T49953,UNICEF Thematic Funds,Global - Nutrition,40 'Multilateral',Funding,40
+T49954,UNICEF Thematic Funds,Global - Education,40 'Multilateral',Funding,40
+T49955,UNICEF Thematic Funds,Global - Child Protection,40 'Multilateral',Funding,40
+T49956,UNICEF Thematic Funds,Global - Social Inclusion,40 'Multilateral',Funding,40
+U45601,United Nations System,United Nations Joint Programme,40 'Multilateral',Funding,40
+U45613,United Nations System,Pan American Health Organization,40 'Multilateral',Funding,40
+U57500,United Nations System,UN Office - Geneva,40 'Multilateral',Funding,40
+U99900,United Nations System,United Nations Secretariat,40 'Multilateral',Funding,40
+U99901,United Nations System,UNOCHA,40 'Multilateral',Funding,40
+U99904,United Nations System,"UNITED NATIONS,SAFETY AND SECURITY",40 'Multilateral',Funding,40
+U99905,United Nations System,UNDP USA,40 'Multilateral',Funding,40
+U99911,United Nations System,FAO - Italy,40 'Multilateral',Funding,40
+U99912,United Nations System,ILO - Geneva,40 'Multilateral',Funding,40
+U99916,United Nations System,UNFPA - USA,40 'Multilateral',Funding,40
+O12003,Foundations,Velux Foundatio,60 'Foundation',Funding,60
+O57507,Foundations,Oak Philanthropy Ltd,60 'Foundation',Funding,60
+N30031,Foundations,Bernard Van Leer Foundation,60 'Foundation',Funding,60
+N45638,Foundations,United Nations Foundation Inc.,60 'Foundation',Funding,60
+N45677,Foundations,Atlantic Philantropies,60 'Foundation',Funding,60
+O60301,Foundations,Gould Trust,60 'Foundation',Funding,60
+N45685,Foundations,The Alexander Bodini Foundation,60 'Foundation',Funding,60
+N45682,Foundations,Bill & Melinda Gates Foundation,60 'Foundation',Funding,60
+N49908,Foundations,Rotary International,60 'Foundation',Funding,60
+N57503,Foundations,Global Alliance for Improved Nutrit,60 'Foundation',Funding,60
+N57506,Foundations,"The Global Fund to Fight Aids, Tube",60 'Foundation',Funding,60
+O49908,Foundations,The GAVI Fund,60 'Foundation',Funding,60
+O23101,Individuals (Others),Tetsuko Kuroyanagi,70 'Private Sector',Funding,70
+O57503,Individuals (Others),One-off donations individuals,70 'Private Sector',Funding,70
+G20701,Governments,Indonesia,10 'Government',Funding,10
+G62601,Governments,Zimbabwe,10 'Government',Funding,10
+G40401,Governments,Republic of South Sudan,10 'Government',Funding,10

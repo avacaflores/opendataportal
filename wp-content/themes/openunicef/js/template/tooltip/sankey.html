@@ -1,0 +1,26 @@
+<div class="node tooltip" v-style="
+    left: left + 'px',
+    right: right + 'px',
+    top: top + 'px',
+    width: width + 'px'"
+    v-class="pinned: pinned">
+  <h5>
+    <div class="draggable" v-class="dragging: dragging"
+          v-on="mousedown: startDrag">
+      {{ name | strip \([CE]\)$ }}
+    </div>
+    <button v-on="click: unpin()" type="button" class="close">
+      <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+    </button>
+  </h5>
+  <p v-component="tooltip-sentence"></p>
+  <ol v-if="breakdown.length > 0" class="top-breakdown">
+    <li v-repeat="breakdown | orderBy 'amount' -1">
+      <p class="name">{{ name }}</p>
+      <p class="amount">{{ amount | usd }} ({{ pct_of_total / 100 | pct }})</p>
+      <div class="bar"
+          v-if="pct_of_total >= 0.5"
+          v-style="width: pct_of_total + '%'"></div>
+    </li>
+  </ol>
+</div>

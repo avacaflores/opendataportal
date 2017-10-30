@@ -1,0 +1,169 @@
+@import 'settings';
+
+.thin_nav {
+  width: 100%;
+  height: 34px;
+  padding: 0 15px 0 15px;
+  background-color: #404041;
+  vertical-align: center;
+
+  span {
+    display: block;
+    padding-top: 8px;
+    float:left;
+  }
+
+  .border {
+    border-right: 1px solid #fff;
+  }
+
+  .social_media {
+    float: right;
+  }
+
+  a:link {
+    color: #fff;
+    font-size: 12px;
+    font-family: "Arial" sans-serif;
+    color: #fff;
+    padding: 0 5px 0 5px;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #fff;
+  }
+
+  a:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #fff;
+  }
+}
+
+header {
+  background-color: $unicef;
+  min-width: $width;
+  position: relative;
+  width: 100%;
+
+  nav {
+    left: -200px;
+    padding: 0 20px 20px 20px;
+    position: relative;
+  }
+
+  .logo {
+    float: right;
+    padding: 20px;
+    width: 160px;
+  }
+
+  .container:after {
+    content: none;
+    display: none;
+  }
+
+}
+
+.last-updated {
+  bottom: 0px;
+  color: white;
+  position: absolute;
+  right: 20px;
+}
+
+h1 {
+  color: white;
+  display: inline-block;
+  font-family: $title-font-stack;
+  font-size: 16pt;
+  font-weight: 400;
+  margin: 5px 0;
+  padding: 20px 20px 7px 20px;
+}
+
+nav {
+  a {
+    font-size: 12px;
+    font-family: "Arial" sans-serif;
+    color: #000;
+  }
+
+  img {
+    display: block;
+    height: 40px;
+    width: 40px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+  }
+
+  .active {
+    img {
+      background-color: #fff;
+    }
+
+    a {
+      color: #fff;
+    }
+  }
+
+  .tip, .my_tooltip {
+    position: absolute;
+    min-width: 100px;
+    max-width: 305px;
+    line-height: 1.3em;
+    height: auto;
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: none;
+    padding: 10px;
+    background-color: #f2f2f2;
+    font-size: 11pt;
+    color: #222;
+    z-index: 1000000;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.95;
+  }
+}
+
+.footer {
+  width: 100%;
+  height: 35px;
+  padding: 10px 5px 15px 25px;
+  border-top: 2px solid #1CABE2;
+  background-color: #1CABE2;
+  font-size: 10pt;
+  clear: left;
+
+  a:link {
+    color: #fff;
+    padding-right: 20px;
+  }
+
+  a:visited {
+    color: #fff;
+  }
+
+  a:hover {
+    color: #fff;
+  }
+
+  a:active {
+    color: #222;
+  }
+}

@@ -1,0 +1,36 @@
+{
+   "@name": "Consolidated Donors",
+   "@lang": "en",
+   "@category-codelist": "Consolidated Donors",
+   "@complete": "1",
+   "metadata": {
+      "name": "Consolidated Donors",
+      "url": ""
+   },
+   "codelist-items": [
+      {
+    "name" : "Canada",
+    "abbrs" : ["canada/iha", "canada/gid"]
+      },
+      {
+      "name" : "United States of America",
+      "abbrs" : ["national center for hiv/aids", "united states of america", "usa usaid", "usa cdc", "usa (usaid) ofda", "usa (state) bprm", "usa (state) bpma", "usa (inl)gtip", "usa department of state nea", "usa inl", "usaid/food for peace", "united states of america"]
+      },
+      {
+     "name" : "Democratic Republic of the Congo",
+     "abbrs" : ["ministry of health - dr congo"]
+      },
+      {
+     "name" : "Central African Republic",
+     "abbrs" : ["ministry of health - car"]
+      },
+      {
+     "name" : "Japan",
+     "abbrs": ["japan international cooperation age"]
+      },
+      {
+     "name" : "Sweden",
+     "abbrs" : ["sida - sweden"]
+      }      
+   ]
+}
